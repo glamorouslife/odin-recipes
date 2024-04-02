@@ -18,8 +18,27 @@ h2{
     background-color: rgb(199, 220, 167);
 }
     
+.firstcontainer{
+    display: flex;
+    justify-content: space-around;
+}   
+
+#list{
+    display: flex;
+    justify-content:space-around;
+}
+
+.image{
+    display: flex;
+    justify-content: center;
     
- 
+}
+
+.title{
+    display: flex;
+    justify-content: center ;
+    
+}
 
 
 

@@ -46,9 +46,7 @@ h2{
 
 .emoji{
     display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    flex-direction: column;
+    flex
 }
 
 
